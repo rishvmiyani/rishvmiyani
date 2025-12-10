@@ -13,15 +13,9 @@ Building data-driven solutions and exploring end-to-end ML pipelines.
 
  🛠️ Languages & Tools  
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)[web:12]  
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)[web:12]  
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)[web:12]  
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)[web:12]  
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)[web:12]  
-![scikit-learn](https://img.shields.io/badge/scikitlearn-F7931E?logo=scikitlearn&logoColor=white)[web:12]  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)[web:12]  
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)[web:12]  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)[web:12]  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)[web:12]  ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)[web:12]  
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)[web:12]  ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)[web:12]  ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)[web:12]  
+![scikit-learn](https://img.shields.io/badge/scikitlearn-F7931E?logo=scikitlearn&logoColor=white)[web:12]  ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)[web:12]  ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)[web:12]  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)[web:12]  
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)[web:12]  
 
 ---
