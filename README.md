@@ -24,11 +24,11 @@ Building data-driven solutions and exploring end-to-end ML pipelines.
 
  🔐 **Fraud Detection Engine**  
   Enterprise-style ML-based fraud detection system for identifying suspicious transactions.  
-  Repo: [fraud-detection-engine](https://github.com/rishvmiyani/fraud-detection-engine)[file:1]  
+  Repo: [fraud-detection-engine](https://github.com/rishvmiyani/fraud-detection-engine)  
 
  🚆 **Express Train Agent**  
   Intelligent assistant for railway/express train–style workflows and automation.  
-  Repo: [express-train-agent](https://github.com/rishvmiyani/express-train-agent)[web:1]  
+  Repo: [express-train-agent](https://github.com/rishvmiyani/express-train-agent)
 
 ---
   
