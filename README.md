@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm RISHV MIYANI</h1>
 <h3 align="center">Computer Engineering Student | Data Analytics & Machine Learning Enthusiast | DSA Coder 🔍 Building data-driven solutions and exploring end-to-end ML pipelines.</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rishvmiyani&label=Profile%20views&color=8A2BE2&style=flat" />
+</p>
+
 
 
 - 🔭 I’m currently worked on [fraud-detection-engine](https://github.com/rishvmiyani/fraud-detection-engine)
