@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RISHV MIYANI</h1>
-<h3 align="center">Computer Engineering Student | Data Analytics & Machine Learning Enthusiast | DSA Coder 🔍 Building data-driven solutions and exploring end-to-end ML pipelines.</h3>
+<h3 align="center"> Data Analytics & Machine Learning Enthusiast | DSA Coder 🔍 Building data-driven solutions and exploring end-to-end ML pipelines.</h3>
 
 
 
