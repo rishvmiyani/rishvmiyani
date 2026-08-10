@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Rishv%20Miyani&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Data%20Analyst%20%26%20Developer%20%7C%20Turning%20Raw%20Data%20Into%20Decisions&descAlignY=58&descSize=18" width="100%" alt="Rishv Miyani banner" />
+  <img src="https://raw.githubusercontent.com/rishvmiyani/rishvmiyani/main/assets/profile-banner.svg" alt="Rishv Miyani — Data Analyst & Developer" width="100%" />
 </p>
 
 <p align="center">
