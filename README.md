@@ -102,13 +102,6 @@ I work at the intersection of data, development, and decision-making — turning
 
 ---
 
-### 🔹 Education
-
-**Vishwakarma Government Engineering College**
-Bachelor of Engineering — Computer Engineering · Jul 2024 – Jun 2028
-
----
-
 ### 🔹 GitHub Stats
 
 <p align="center">
