@@ -104,10 +104,6 @@ I work at the intersection of data, development, and decision-making — turning
 
 ### 🔹 GitHub Stats
 
-<p align="center">
-  < username=rishvmiyani&show_icons=true&theme=transparent&hide_border=true&title_color=1E88E5&icon_color=39D98A&text_color=ffffff" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=rishvmiyani&theme=transparent&hide_border=true&ring=1E88E5&fire=39D98A&currStreakLabel=ffffff" alt="GitHub streak" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishvmiyani&bg_color=transparent&color=4E7A9E&line=1E88E5&point=39D98A&area=true&area_color=1E88E520&hide_border=true" alt="GitHub activity graph" />
