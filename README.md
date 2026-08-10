@@ -1,27 +1,129 @@
-<h1 align="center">Hi 👋, I'm RISHV MIYANI</h1>
-<h3 align="center"> Data Analytics & Machine Learning Enthusiast | DSA Coder 🔍 Building data-driven solutions and exploring end-to-end ML pipelines.</h3>
-
-
-
-
-- 🔭 I’m currently worked on [fraud-detection-engine](https://github.com/rishvmiyani/fraud-detection-engine)
-
-- 🌱 I’m currently working on **Building ML-powered and data-driven applications.
--  Strengthening DSA fundamentals through regular coding practice.
-- Exploring analytics + ML workflows, from data cleaning to deployment.**
-
-- 📫 Connect with me **rishv.miyani29@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Dv6MAs3FDlYNEBdUgeTaMNcrAEHxiJ7Z/view?usp=drivesdk](https://drive.google.com/file/d/1Dv6MAs3FDlYNEBdUgeTaMNcrAEHxiJ7Z/view?usp=drivesdk)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rishv-miyani-914166332" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishv-miyani-914166332" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rishv_miyani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rishv_miyani" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/395004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="395004" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Rishv%20Miyani&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Data%20Analyst%20%26%20Developer%20%7C%20Turning%20Raw%20Data%20Into%20Decisions&descAlignY=58&descSize=18" width="100%" alt="Rishv Miyani banner" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/rishvmiyani"><img src="https://img.shields.io/badge/GitHub-rishvmiyani-0E2232?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/rishv-miyani-914166332/"><img src="https://img.shields.io/badge/LinkedIn-Rishv%20Miyani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.qorynta.in"><img src="https://img.shields.io/badge/Website-qorynta.in-245B45?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="mailto:rishv.miyani29@gmail.com"><img src="https://img.shields.io/badge/Email-rishv.miyani29%40gmail.com-163247?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
+**Computer Engineering student and data analyst who ships end-to-end.**
+I work at the intersection of data, development, and decision-making — turning messy, real-world datasets into KPIs, dashboards, and applications people actually use. My strongest work sits in the full pipeline: extraction, cleaning, aggregation, analysis, and the story on top of it.
 
+---
+
+### 🔹 Focus Areas
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>📊 Data Analytics & EDA</strong><br/>
+      Python (Pandas, NumPy), SQL, and statistical analysis on large real-world datasets — KPI design, revenue/AOV/return-rate modeling, and category or geography-level breakdowns.
+    </td>
+    <td valign="top" width="50%">
+      <strong>🤖 Applied ML & Data Systems</strong><br/>
+      Building ML-powered tools like fraud-detection pipelines, exploring the full workflow from data cleaning to deployment rather than notebooks in isolation.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>🧱 Full-Stack Delivery</strong><br/>
+      Comfortable shipping the layer around the data too — React/HTML/CSS front ends, API integration, and MongoDB/SQL-backed services under real time pressure (hackathons, internships).
+    </td>
+    <td valign="top" width="50%">
+      <strong>🔐 Secure, Structured Engineering</strong><br/>
+      Grounded in database security, system design fundamentals, and secure-by-default practices — reflected in certifications and independent security-focused builds.
+    </td>
+  </tr>
+</table>
+
+> *Currently exploring: fraud-detection-engine, and building more ML-powered, data-driven applications.*
+
+---
+
+### 🔹 Tech Stack
+
+- **Languages:** `Python` `SQL` `C` `C++` `JavaScript`
+- **Data & Analytics:** `Pandas` `NumPy` `EDA` `Data Cleaning` `Statistical Analysis` `Power BI–style Dashboards` `Matplotlib` `Seaborn`
+- **Development:** `HTML` `CSS` `React` `API Integration` `MongoDB`
+- **Foundations:** `Data Structures` `System Design Fundamentals` `Database Security`
+
+---
+
+### 🔹 Featured Work
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong><a href="https://github.com/rishvmiyani/Amazon-Dashboard">Amazon-Dashboard</a></strong><br/><br/>
+      End-to-end analysis of 120K+ real Amazon India sales orders. Full pipeline from raw data to a formal report: revenue trends, AOV, a 15.8% return-rate finding, size/category performance, and fulfillment comparisons (Amazon vs. Merchant) across Indian states.
+    </td>
+    <td valign="top" width="50%">
+      <strong><a href="https://github.com/rishvmiyani/fraud-detection-engine">fraud-detection-engine</a></strong><br/><br/>
+      Enterprise-style ML-based fraud detection system — applying analytics and modeling to flag anomalous transaction behavior.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong><a href="https://github.com/rishvmiyani/PLM-Control">PLM-Control</a></strong> · CRISP<br/><br/>
+      Product Lifecycle Management system built in 24 hours as a finalist project at the Odoo × Gujarat Vidyapith Hackathon 2026 — selected from 893+ teams down to the final 72.
+    </td>
+    <td valign="top" width="50%">
+      <strong><a href="https://github.com/rishvmiyani/AutoVulnScanner">AutoVulnScanner</a></strong><br/><br/>
+      Python-based vulnerability scanning tool built to explore automated security assessment workflows.
+    </td>
+  </tr>
+</table>
+<p><sub>Also on GitHub: <a href="https://github.com/rishvmiyani/astra-base">astra-base</a> · <a href="https://github.com/rishvmiyani/secure-password-generator">secure-password-generator</a> · <a href="https://github.com/rishvmiyani/webdev-zero-to-fullstack">webdev-zero-to-fullstack</a> (2★, a full learning path for web dev)</sub></p>
+
+---
+
+### 🔹 Experience
+
+| Role | Organization | Duration | Focus |
+|---|---|---|---|
+| Trainee | **GLOWSTAR** | Jun 2026 · Surat, India (On-site) | Exploratory Data Analysis, Autonomous Database migration |
+| Data Analyst | **InnoByte Services** | Dec 2025 – Mar 2026 · Remote | Python, SQL, business-facing analytics on production data |
+| Full-Stack Developer Intern | **Stackzphere** | Nov 2025 – Jan 2026 · Remote | Application development & API integration |
+
+---
+
+### 🔹 Achievements & Certifications
+
+- 🏆 **Finalist — Odoo × Gujarat Vidyapith Hackathon 2026**, one of 72 teams selected from 893+ entrants
+- 🥇 **HackerRank Python — 5-Star Gold Badge**
+- 🎓 **Deloitte Australia — Data Analytics Job Simulation** (Forage)
+- ☁️ **Oracle Autonomous Database Professional** (Issued Oct 2025)
+- 🛡️ **DevTown — XSS Defense & Microsoft XSS Defense certifications**
+- 🧠 **AI Engineering and Prompt Engineering** (DevTown)
+- 📣 **Campus Ambassador**, SmartED Innovations
+
+---
+
+### 🔹 Education
+
+**Vishwakarma Government Engineering College**
+Bachelor of Engineering — Computer Engineering · Jul 2024 – Jun 2028
+
+---
+
+### 🔹 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rishvmiyani&show_icons=true&theme=transparent&hide_border=true&title_color=1E88E5&icon_color=39D98A&text_color=ffffff" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=rishvmiyani&theme=transparent&hide_border=true&ring=1E88E5&fire=39D98A&currStreakLabel=ffffff" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishvmiyani&bg_color=transparent&color=4E7A9E&line=1E88E5&point=39D98A&area=true&area_color=1E88E520&hide_border=true" alt="GitHub activity graph" />
+</p>
+
+---
+
+<p align="center">
+  <a href="mailto:rishv.miyani29@gmail.com">rishv.miyani29@gmail.com</a> ·
+  <a href="https://www.linkedin.com/in/rishv-miyani-914166332/">LinkedIn</a> ·
+  <a href="https://www.qorynta.in">qorynta.in</a>
+</p>
