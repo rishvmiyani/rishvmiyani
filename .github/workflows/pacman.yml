@@ -15,7 +15,7 @@ jobs:
   build:
     name: Generate Pac-Man contribution graph
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 20
 
     steps:
       - name: Generate Pac-Man graph
@@ -23,9 +23,10 @@ jobs:
         with:
           github_user_name: rishvmiyani
           games: "pacman"
+          hide_month_labels: "false"
 
       - name: Deploy Pac-Man graph
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
