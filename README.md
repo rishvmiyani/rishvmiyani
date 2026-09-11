@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rishvmiyani/rishvmiyani/main/assets/profile-banner.svg" alt="Rishv Miyani — Data Analyst & Developer" width="100%" />
-</p>
-
-<p align="center">
   <a href="https://github.com/rishvmiyani"><img src="https://img.shields.io/badge/GitHub-rishvmiyani-0E2232?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/rishv-miyani-914166332/"><img src="https://img.shields.io/badge/LinkedIn-Rishv%20Miyani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.qorynta.in"><img src="https://img.shields.io/badge/Website-qorynta.in-245B45?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
