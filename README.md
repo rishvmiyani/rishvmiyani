@@ -5,16 +5,7 @@
   <a href="mailto:rishv.miyani29@gmail.com"><img src="https://img.shields.io/badge/Email-rishv.miyani29%40gmail.com-163247?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-## Profile Views
 
-<div align="center">
-  <img
-    src="https://count.getloli.com/@rishvmiyani?name=rishvmiyani&theme=normal-2&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"
-    alt="Profile views"
-  />
-</div>
-
-<br />
 
 **Computer Engineering student and data analyst who ships end-to-end.**
 I work at the intersection of data, development, and decision-making — turning messy, real-world datasets into KPIs, dashboards, and applications people actually use. My strongest work sits in the full pipeline: extraction, cleaning, aggregation, analysis, and the story on top of it.
