@@ -104,9 +104,35 @@ I work at the intersection of data, development, and decision-making — turning
 
 ### 🔹 GitHub Stats
 
+#### 🟡 Pac-Man Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishvmiyani&bg_color=transparent&color=4E7A9E&line=1E88E5&point=39D98A&area=true&area_color=1E88E520&hide_border=true" alt="GitHub activity graph" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/rishvmiyani/rishvmiyani/output/pacman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/rishvmiyani/rishvmiyani/output/pacman-contribution-graph.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/rishvmiyani/rishvmiyani/output/pacman-contribution-graph.svg"
+      alt="Pac-Man contribution graph"
+      width="100%"
+    />
+  </picture>
+</p>
+
+<br />
+
+#### 📈 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rishvmiyani&bg_color=transparent&color=4E7A9E&line=1E88E5&point=39D98A&area=true&area_color=1E88E520&hide_border=true"
+    alt="GitHub activity graph"
+  />
 </p>
 
 ---
