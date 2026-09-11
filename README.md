@@ -122,16 +122,6 @@ I work at the intersection of data, development, and decision-making — turning
 
 <br />
 
-#### 📈 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rishvmiyani&bg_color=transparent&color=4E7A9E&line=1E88E5&point=39D98A&area=true&area_color=1E88E520&hide_border=true"
-    alt="GitHub activity graph"
-  />
-</p>
-
----
 
 <p align="center">
   <a href="mailto:rishv.miyani29@gmail.com">rishv.miyani29@gmail.com</a> ·
